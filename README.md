@@ -50,6 +50,6 @@ The Kaggle API requires a kaggle.json file (your API credentials).
 This file must be placed in a directory (usually ~/.kaggle on Linux/Mac or C:\Users\<username>\.kaggle on Windows).
 
 ## Author
-Orangel Mendez - [gmail](omendez30@gmail.com)
+Orangel Mendez - [omendez30@gmail.com](omendez30@gmail.com)
   
 
