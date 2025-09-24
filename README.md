@@ -9,10 +9,10 @@ The data used was obtained from Kaggle: [NFL Stats 2012-2024](https://www.kaggle
 This dataset has **4521** unique values providing an abundance of information from the last 12 seasons including the following:
 
 1. Player Information
-  - Player Name, Position, Team, Age, Height, Weight, College, and Draft round
+   - Player Name, Position, Team, Age, Height, Weight, College, and Draft round
     
 2. Player Metrics
-  - Statistical data on player performance, this includes pass yards, rush yards, receiving yards, touchdowns, interceptions, tackles, sacks, etc.. These metrics are broken down by season and game.
+   - Statistical data on player performance, this includes pass yards, rush yards, receiving yards, touchdowns, interceptions, tackles, sacks, etc.. These metrics are broken down by season and game.
 
 3. Fantasy Point
    - Calculated fantasy points for each player based on player performance, following popular fantasy football scoring rules.
